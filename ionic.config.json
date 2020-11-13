@@ -1,0 +1,7 @@
+{
+  "name": "restaurant-frontend",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
